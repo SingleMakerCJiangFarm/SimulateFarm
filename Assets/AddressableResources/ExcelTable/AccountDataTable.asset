@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7328537efddb5d46949b51573e217af, type: 3}
+  m_Name: AccountDataTable
+  m_EditorClassIdentifier: 
+  _dataList:
+  - id: 0
+    name: "C\u9171"
+  - id: 1
+    name: "C\u9171"
+  - id: 2
+    name: "C\u9171"
+  - id: 3
+    name: "C\u9171"
+  - id: 4
+    name: "C\u9171"
+  - id: 5
+    name: "C\u9171"
+  - id: 6
+    name: "C\u9171"
+  - id: 7
+    name: "C\u9171"
+  - id: 8
+    name: "C\u9171"
+  - id: 9
+    name: "C\u9171"
+  - id: 10
+    name: "C\u9171"
+  - id: 11
+    name: "C\u9171"
+  - id: 12
+    name: "C\u9171"
+  - id: 13
+    name: "C\u9171"
+  - id: 14
+    name: "C\u9171"
